@@ -22,3 +22,5 @@ The entire place is one circular living room that behaves like a living, elastic
 ### Seeds
 
 Every booth offers clean, downloadable copies of its ideas. Visitors are free to take them, host them elsewhere, translate them, or adapt them. Control is deliberately released.
+
+This is the complete architectural description. It is deliberately simple so it can be built with ordinary no-code tools or by volunteer developers who share the values.
