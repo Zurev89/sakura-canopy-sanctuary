@@ -31,12 +31,10 @@ Weekly Shōnen production, popularity polls, merchandise cycles, and isolated au
 
 ### Phase 6 — The architectural answer
 
-A circular digital station modeled on the faction hubs of *Star Wars: The Old Republic*:  
-- Neutral central commons (shared hearth, no single aesthetic dominates).  
-- Radial, compartmentalized booths (each creator’s space is sovereign; one booth’s Sakura tree or Hufflepuff warmth stays inside its own walls).  
-- Free entry, free avatar creation (Pottermore-style, natural elements only), zero monetization.  
-- Every idea offered as a downloadable seed that visitors can carry away and plant elsewhere.
+A circular digital living room that expands and contracts like a magical common room:
 
-The first booth in that station is a warm, plant-filled Hufflepuff-style common room under a Sakura canopy — because the entire project is built on patience, loyalty, hard work, and the belief that real strength is collective and earned over time.
+- The center is a shared, neutral living-room area — comfortable seating, soft light, low tables — where people gather, talk, and rest. No single aesthetic owns this space.
+- Along the outer walls sit individual booths. Each booth is a self-contained room whose walls, lighting, and atmosphere belong only to the idea it holds. Stepping into a booth completely changes the environment; stepping back into the center returns you to the calm shared living room.
+- The whole room grows or shrinks naturally with the number of people and booths present. It never feels empty or crowded; it simply adjusts the way a living space does.
 
-This is the complete root system. Everything that follows grows from here.
+The first booth is a warm, plant-filled Hufflepuff-style common room under a Sakura canopy, because the project itself is built on patience, loyalty, and the belief that real strength is collective and earned over time.
