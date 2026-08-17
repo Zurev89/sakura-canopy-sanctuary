@@ -16,8 +16,12 @@ No money is ever required. No data is harvested. No algorithm decides what is vi
    The gardener philosophy, the rejection of forced power-scaling, and the structural principles of the sanctuary.
 
 3. **[Onboarding & Architecture](sanctuary_onboarding_blueprint.md)**  
-*   **The Neutral Commons:** A shared, cozy living-room center where people gather as equals.
-*   **The Elastic Living Room:** A circular space that expands or contracts naturally as more people and booths appear.
-*   **The Perimeter Booths:** Self-contained alcoves along the walls; each has complete sovereignty over its own atmosphere and never interferes with the others.
+   How the circular living room actually works: the shared common area, the self-contained booths, and the absolute zero-cost pledge.
+
+### The shape of the place
+
+- **The Neutral Commons** — A shared, cozy living-room center where people gather as equals.
+- **The Elastic Living Room** — A circular space that expands or contracts naturally as more people and booths appear.
+- **The Perimeter Booths** — Self-contained alcoves along the walls; each has complete sovereignty over its own atmosphere and never interferes with the others.
 
 Take any file. Copy it. Host it elsewhere. Adapt it. The wind is free.
