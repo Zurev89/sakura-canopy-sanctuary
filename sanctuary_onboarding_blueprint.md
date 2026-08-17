@@ -1,19 +1,24 @@
 # Onboarding & Architecture
 
-### The circular station
-- **Neutral commons** at the center: quiet seating, shared tables, no dominant aesthetic. This is where people first arrive and where conversations happen.
-- **Radial booths** extending outward: each is a self-contained room. The walls, lighting, and atmosphere of one booth never spill into another. A visitor steps through an archway and enters that creator’s complete visual and philosophical world.
-- The station expands or contracts with the number of active booths. It never feels empty or overcrowded; it simply grows new rooms when they are needed.
+### The circular living room
 
-### Your first booth (example)
-Warm exposed brick, circular windows, low wooden tables, hanging plants, soft sunlight — the feeling of a Hufflepuff common room. A Sakura tree grows inside this booth only; its petals may drift into the neutral commons, but the tree itself remains inside its own walls. Other booths may be dark, tactical, neon, library-like, or anything else their creators choose.
+The entire place is one circular living room that behaves like a living, elastic space.
 
-### Entry
-1. A short, plain welcome that states the nature of the place and the absolute rule: no money will ever be asked.
-2. Optional free avatar creation (sketch-style, natural elements only — no paid skins, no real-world identity required).
-3. Immediate access to every public booth and every downloadable file.
+- **Center (the common area)**  
+  Neutral, cozy, and shared. Soft seating, low tables, warm light. This is where people first arrive, sit, talk, and rest. No single booth’s aesthetic is allowed to dominate the center.
+
+- **Perimeter booths**  
+  Individual alcoves set into the outer walls. Each booth is completely self-contained. When you step inside one, the walls, furniture, lighting, and atmosphere change to match that specific idea. Your booth, for example, feels like a Hufflepuff common room with a Sakura tree. Neighboring booths can look and feel entirely different. Their atmospheres stay inside their own walls and never spill into the center or into each other.
+
+- **Elastic growth**  
+  The room expands or contracts smoothly according to how many people and booths are present. When only a few people are here it feels intimate. When more arrive, the walls quietly push outward and new alcoves appear while the central living area remains calm and shared.
+
+### Entry experience
+
+1. A plain, warm welcome that states what the place is and the absolute rule: no money will ever be asked of anyone.
+2. Optional free avatar creation (simple sketch-style, natural elements only).
+3. Immediate access to the common area and every public booth.
 
 ### Seeds
-Every booth offers clean, downloadable copies of its ideas (Markdown, plain text, or simple PDF). Visitors are encouraged to take them, host them elsewhere, translate them, or adapt them. Control is deliberately released.
 
-This is the complete architectural description. It is deliberately simple so it can be built with ordinary no-code tools or by volunteer developers who share the values.
+Every booth offers clean, downloadable copies of its ideas. Visitors are free to take them, host them elsewhere, translate them, or adapt them. Control is deliberately released.
